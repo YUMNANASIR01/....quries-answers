@@ -1,0 +1,21 @@
+{
+  "name": "8-addition-calculator",
+  "version": "1.0.0",
+  "description": "- make addition calculator with the help of inquirer and 2 numbers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.19",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

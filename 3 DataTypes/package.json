@@ -1,0 +1,15 @@
+{
+  "name": "3-datatypes",
+  "version": "1.0.0",
+  "description": "- Declare a variable with \"srting\" dataType. Add comment about your     variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

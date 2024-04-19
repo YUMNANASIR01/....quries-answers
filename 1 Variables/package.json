@@ -1,0 +1,15 @@
+{
+  "name": "1-variables",
+  "version": "1.0.0",
+  "description": "- Declare a variable with const. Its data type should be string. Write your name and print it on the terminal.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

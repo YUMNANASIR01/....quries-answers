@@ -1,0 +1,15 @@
+{
+  "name": "2-namecase",
+  "version": "1.0.0",
+  "description": "- Declare a variable. Its name-case should be camel-case. Its data type should be string. Write your name and print it on the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

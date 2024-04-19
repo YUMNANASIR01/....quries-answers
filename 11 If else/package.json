@@ -1,0 +1,15 @@
+{
+  "name": "11-if-else",
+  "version": "1.0.0",
+  "description": "- Make a typescript file.\r - Write if-esle statment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

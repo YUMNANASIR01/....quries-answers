@@ -1,0 +1,15 @@
+{
+  "name": "17-arrow-function",
+  "version": "1.0.0",
+  "description": "Define a Arrow function called `greet` that takes a parameter `name` and returns a greeting message including the provided `name`. Then, call the `greet` Arrow function with the argument \"John\" and log the result to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
